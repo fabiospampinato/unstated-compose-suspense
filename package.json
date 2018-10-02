@@ -1,6 +1,6 @@
 {
   "name": "unstated-compose-suspense",
-  "description": "unstated-compose containers with support for suspending/unsuspending updates propagation.",
+  "description": "Add suspend/unsuspend support to `unstated-compose`.",
   "version": "1.0.1",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -26,13 +26,12 @@
   "keywords": [
     "react",
     "unstated",
-    "hoc",
     "compose",
     "suspense",
     "performance"
   ],
   "dependencies": {
-    "unstated-suspense": "^1.0.0"
+    "unstated-suspense": "^1.0.1"
   },
   "devDependencies": {
     "@types/node": "^10.9.4",
