@@ -30,10 +30,10 @@
     "performance"
   ],
   "dependencies": {
+    "@types/node": "^10.12.8",
     "unstated-suspense": "^1.0.1"
   },
   "devDependencies": {
-    "@types/node": "^10.9.4",
     "rimraf": "^2.6.0",
     "typescript": "^3.0.3"
   }
